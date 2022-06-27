@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 @Entity
 @Table
 @Data
-@AllArgsConstructor
+
 @NoArgsConstructor
 public class Technology {
 	
